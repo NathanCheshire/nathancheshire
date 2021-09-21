@@ -4,4 +4,4 @@
 <br/><br/>
 ![NathanCheshire's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nathancheshire&theme=radical)
 <br/><br/>
-<b>[Personal Website Portfolio](NathanCheshire.com)</b>
+<b>[Personal Website Portfolio](https://NathanCheshire.com)</b>
