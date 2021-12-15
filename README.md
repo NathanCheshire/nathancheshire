@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathancheshire&layout=compact&theme=radical&hide_border=true&border_radius=20&langs_count=4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathancheshire&layout=compact&theme=radical&hide_border=true&border_radius=20&langs_count=4&hide=HTML)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nathancheshire&repo=cyder&theme=radical&hide_border=true&border_radius=20)](https://github.com/nathancheshire/cyder)
 <br/><br/>
