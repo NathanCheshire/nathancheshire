@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nathancheshire&theme=radical&custom_title=Time%20Spent&line_height=25&langs_count=5&hide_border=true&border_radius=20&hide=Other,Text,JSON"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nathancheshire&theme=radical&custom_title=Time%20spent%20since%20August%2028%2C%202021&line_height=25&langs_count=5&hide_border=true&border_radius=20&hide=Other,Text,JSON"/>
 </p>
