@@ -1,5 +1,5 @@
 <p align="center">
-    <h2 align = "center">Hello, I'm Nate, but online you can just call me Natche.<br/>Be sure to checkout my website built with Flutter at <a href="http://nathancheshire.com">NathanCheshire.com</a></h2>
+    <h2 align = "center">Hello, I'm Nate, but online you can just call me Natche.<br/>Be sure to "git checkout -b" my website built with Flutter at <a href="http://nathancheshire.com">NathanCheshire.com</a></h2>
 </p>
 <br/>
 <p align="center">
