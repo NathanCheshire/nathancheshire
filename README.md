@@ -1,11 +1,6 @@
-<p align="center">
-    <h2>“If I would have asked people what they wanted, they would have said faster horses.” - Henry Ford</h2>
-</p>
 
-<p align="center">
-    <h2>"To play a wrong note is insignificant; to play without passion is inexcusable." - Ludwig van Beethoven</h2>
-</p>
+![HenryFord](https://github.com/NathanCheshire/nathancheshire/assets/60986919/775feb6b-9b54-4ad0-a28e-a86d862f162f)
 
-<br/>
+![LudwigVanBeethoven](https://github.com/NathanCheshire/nathancheshire/assets/60986919/12b04353-e486-4e87-9f71-b28fa93181ea)
 
 [![wakatime](https://wakatime.com/badge/user/87dae649-5ee6-4077-99c0-cf4ae9159f63.svg)](https://wakatime.com/@87dae649-5ee6-4077-99c0-cf4ae9159f63)
